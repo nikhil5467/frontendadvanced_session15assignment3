@@ -1,0 +1,20 @@
+[
+  {
+    "id":"1",
+    "name": "Avnesh Shakya",
+    "age": "26",
+    "institute": "NITK"
+  },
+  {
+    "id":"2",
+    "name": "Devashish Sahu",
+    "age": "25",
+    "institute": "Oxford College of Science"
+  },
+  {
+    "id":"3", 
+    "name": "Archna Ekka",
+    "age": "25",
+    "institute": "NITK"
+  }
+]

@@ -1,0 +1,22 @@
+<div class="container-fluid">
+    <!-- Page Heading -->
+    <div class="row">
+        <div class="col-xl-12">
+            <h2 class="page-header">
+                View Users
+            </h2>
+            <div class="table-responsive">
+                <table class="table table-bordered table-hover table-striped">
+                    <tbody>
+                        <tr *ngFor="let user of users">
+                            <td>{{user.name}}</td>
+                            <td>{{user.age}}</td>
+                            <td>{{user.institute}}</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    <!-- /.row -->
+</div>
